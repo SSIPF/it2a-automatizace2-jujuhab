@@ -4,6 +4,7 @@ setlocal enabledelayedexpansion
  
 set "filePath=R:\osy_au"
 set "pswd="
+set "gr1="
  
 if not defined password set "password=Default"
  

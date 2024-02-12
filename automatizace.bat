@@ -2,7 +2,7 @@
  
 setlocal enabledelayedexpansion
  
-set "filePath=C:\Users\sysadmin\Desktop\jmena"
+set "filePath=C:\Users\sysadmin\Desktop\jmena.txt"
 set "pswd="
 set "group="
  
